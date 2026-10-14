@@ -20,7 +20,7 @@ B.Tech graduate interested in investment banking operations, financial markets, 
 - Documentation and Data Validation
 
 ## Education
-- B.Tech — Electronics and Communication Engineering
+- B.Tech — Computer Science and Engineering (CSE)
 - Certified Investment Banking Operations Professional (CIBOP) — Imarticus Learning
 
 ## Connect With Me
